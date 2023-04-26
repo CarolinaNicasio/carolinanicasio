@@ -1,5 +1,6 @@
-![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portadagit.gif)
-<h1 align="center">Hi 👋, I'm Carolina Nicasio</h1>
+![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)]
+
 <h3 align="center">A passionate Data engineer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/5arxztext.gif">
 
