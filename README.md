@@ -1,4 +1,6 @@
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)
+
 ![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)
 
@@ -35,8 +37,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinanicasio&show_icons=true&locale=en&layout=compact&theme=aura" alt="carolinanicasio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinanicasio&show_icons=true&locale=en&layout=compact&theme=react" alt="carolinanicasio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true&locale=en&theme=aura" alt="carolinanicasio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true&locale=en&theme=react" alt="carolinanicasio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinanicasio&&theme=aura" alt="carolinanicasio" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinanicasio&&theme=react" alt="carolinanicasio" /></p>
