@@ -1,6 +1,3 @@
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)
-
 ![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)
 
