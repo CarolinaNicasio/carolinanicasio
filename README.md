@@ -1,8 +1,11 @@
-![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Carolina+Nicasio.+Welcome!)
+![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png) 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Carolina+Nicasio+Welcome!;-Computer+systems+engineering+student;data+engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;&center=true&width=380&height=45"></a>
+</p>
+<hr/>
 
-<h3 align="center">A passionate Data engineer from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/5arxztext.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/11111.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinanicasio&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -39,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true&locale=en&theme=react" alt="carolinanicasio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinanicasio&&theme=react" alt="carolinanicasio" /></p>
+
