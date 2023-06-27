@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/11111.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/readme.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinanicasio&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -36,9 +36,14 @@
 </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinanicasio&show_icons=true&locale=en&layout=compact&theme=github_aura" alt="carolinanicasio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true&locale=en&theme=github_aura" alt="carolinanicasio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinanicasio&&theme=github_aura" alt="carolinanicasio" /></p>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme:dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true"
+  media="(prefers-color-scheme: light),(prefers-color-scheme:no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=carolinanicasio&show_icons=true" />
+</picture>
