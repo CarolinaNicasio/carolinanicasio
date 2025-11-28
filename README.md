@@ -1,6 +1,7 @@
-![MasterHead](https://github.com/CarolinaNicasio/carolinanicasio/blob/main/portada-git.png)
+# Carolina Nicasio
+### Data Engineer · Azure · Databricks · SQL · Python
 
-<img align="right" alt="Coding" width="320" src="https://github.com/CarolinaNicasio/carolinanicasio/blob/main/readme.gif">
+---
 
 ## About me
 Data Engineer with a background in computer systems engineering. I design and deliver reliable data pipelines that enable analytics and reporting at scale.
